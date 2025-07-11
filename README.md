@@ -17,7 +17,7 @@ This machine learning project predicts the credit risk of an individual based on
 - Cleaned and encoded raw data
 - Saved trained model using `joblib`
 - Interactive frontend built with **Streamlit**
-- Deployed live: [🌐 App Demo](https://ml-health-premium.streamlit.app/) *(update this link)*
+- Deployed live: [🌐 App Demo](https://ml-health-premium.streamlit.app/)
 
 ---
 
